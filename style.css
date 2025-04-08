@@ -15,7 +15,6 @@ header {
     background-color: #2b6cb0;
     color: white;
     padding: 20px 0;
-    
     position: sticky;
     top: 0;
     z-index: 10;
@@ -42,4 +41,21 @@ nav button{
     text-decoration: none;
     padding: 8px 15px;
     transition: background-color 0.3s; 
+}
+
+/* ===Footer===*/
+footer{
+    background-color: rgb(170, 170, 170)
+    color: grey;
+    text-align: center;
+    padding: 20px 10px;
+    margin-top: 30px;
+    font-size: 14px;
+}
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
 }
