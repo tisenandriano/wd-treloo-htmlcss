@@ -1,0 +1,11 @@
+/* ===Global===*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: "D:\UTS_WEB_BD4B\wd-treloo-htmlcss\assets\unsplash_CSpjU6hYo_0.png";
+    line-height: 1,6;
+}
